@@ -243,7 +243,7 @@ allprojects {
 
 > 在Java开发中，我们在开发项目或者测试时或多或少会接触点数据存储的场景，那么这时候就需要我们在自己的开发环境安装一个数据库，数据库也有很多可以选择，那么我们选择MySQL作为我们的数据库
 
-+ [MySQL下载地址]()
++ [MySQL下载地址](https://dev.mysql.com/downloads/mysql/)
 + 下载MySQL的zip包
 
 !> 不推荐下载使用msi或exe的方式安装，因为非常的麻烦
