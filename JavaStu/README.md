@@ -279,7 +279,7 @@ default-storage-engine=INNODB
 
 + **初始化MySQL**
 
-!> 若在这出现了问题，请移步[此链接]()查看
+!> 若在这出现了问题，请移步[此链接](https://milank.cn/archives/vcrun)查看
 
 ![](https://cdn.lixingyong.com/2022/01/03/c6.png)
 
